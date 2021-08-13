@@ -1,2 +1,2 @@
 # project24
-tean24
+team24
